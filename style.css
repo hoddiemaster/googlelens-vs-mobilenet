@@ -1,0 +1,24 @@
+body{
+    background: url("http://www.pixelstalk.net/wp-content/uploads/2016/08/HD-Dark-Iphone-Background.jpg");
+    background-position: center;
+    background-size: cover;
+    border:5px solid greenyellow;
+}
+h1{
+    color:greenyellow ;
+    font-size: 20px;
+    
+}
+.text{
+    font-size: 18px;
+    font-weight: bold;
+color: aqua;
+}
+.heading{
+    color:greenyellow ;
+    border-radius: 30%;
+}
+.image{
+    height: 200px;
+    width: 210px;
+}
